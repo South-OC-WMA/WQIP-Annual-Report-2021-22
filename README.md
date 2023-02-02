@@ -1,3 +1,2 @@
 # WQIP-Annual-Report-2021-22
-Scripts for data used for WQIP Annual Report (MS4 outfall non-stormwater flows and bioassessment) 
-
+Scripts used for data (MS4 outfall non-stormwater flows, bioassessment, mass emissions, and QC) for the WQIP Annual Reporting 
