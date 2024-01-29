@@ -1,4 +1,4 @@
-FacilityID,Date,FlowConnectivity,FlowCondition,PersistentFlow,SampleDry,FloatDischargeCFS,VolumeDischargeCFS,rain_gage,wet_within_72,GlobalID,QInscfs,MonitoringYear,QInscfsAdj,QInsCFAdj,medianTMcfs,medianRcfs,medianOFPcfs,medianTM,medianOCFS2021cfs,medianDFM2022cfs,medianSWN2022cfs,QDailycfContTMcf,QDailycfContRcf,QDailycfContOFPcf,QDailycfContOCFScf,QDailycfContSWNcf
+FACILITYID,Date,FlowConnectivity,FlowCondition,PersistentFlow,SampleDry,FloatDischargeCFS,VolumeDischargeCFS,rain_gage,wet_within_72,GlobalID,QInscfs,MonitoringYear,QInscfsAdj,QInsCFAdj,medianTMcfs,medianRcfs,medianOFPcfs,medianTM,medianOCFS2021cfs,medianDFM2022cfs,medianSWN2022cfs,QDailycfContTMcf,QDailycfContRcf,QDailycfContOFPcf,QDailycfContOCFScf,QDailycfContSWNcf
 DP01-12022-1,2022-09-26,Direct Connection,Flowing,Yes,,0.0078,NA,DANAPOINT,FALSE,{2930B26A-DE4C-4E36-8E9D-20B5B8F77DA9},0.0078,MY2021-22,0.005382,465.0048,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 DP01-12022-2,2022-07-12,None - Flow Infiltrates or Outfall is Dry,Dry,Unknown,,0,0,DANAPOINT,FALSE,{F1A20556-9AFE-4BFC-A5BD-765B4F16802D},0,MY2021-22,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 DP01-12022-2,2022-09-26,None - Flow Infiltrates or Outfall is Dry,Dry,Unknown,,0,0,DANAPOINT,FALSE,{F1A20556-9AFE-4BFC-A5BD-765B4F16802D},0,MY2021-22,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -494,3 +494,4 @@ L03-693-1 (L03P11),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MY2020-21,NA,NA,NA,NA,NA,NA,
 L04-266-5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MY2020-21,NA,NA,NA,NA,NA,NA,0.3085347222222222,NA,NA,NA,NA,NA,26657.399999999998,NA
 J01-9005-3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MY2021-22,NA,NA,NA,NA,NA,NA,NA,NA,0.834,NA,NA,NA,NA,72057.6
 J01-9273-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MY2021-22,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0
+J01-9364-3 (J01P21),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MY2021-22,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0
